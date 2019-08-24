@@ -14,7 +14,7 @@ export class DadosPage implements OnInit {
 
     this.pessoa = {
       nome: "Igor Fastroni",
-      idade: 24,
+      idade: "24",
       email: "igor.fastroni@gmail.com",
       telefone: "(16) 999999999"
     }
